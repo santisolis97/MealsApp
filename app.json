@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "RNCourse",
+    "name": "MealsApp",
     "slug": "RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,6 +19,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.santisolis.mealsapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
